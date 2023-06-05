@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently learning C++ and SQL<br>👯And in the near future i looking for some projects and experience.<br> <br>
+🔭I’m currently learning C++ and in the future C# && SQL<br>👯And in the near future i looking for some projects and experience.<br> <br>
 
 
 ## 🌐 Socials:
