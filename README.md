@@ -9,7 +9,7 @@
   <a href="https://leetcode.com/boyjayy"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Some Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,aws,bash,c,cpp,docker,git,go,grafana,kafka,kubernetes,linux,mongodb,postgres,qt,redis&perline=8" />
 </p>
